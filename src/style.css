@@ -1,0 +1,9 @@
+h1, p {
+  font-family: Lato;
+}
+#floating-panel {
+  position:fixed;
+}
+#toggleHeatmap{
+  background-color: white;
+}
